@@ -18,4 +18,3 @@
 * Wasp
 * Antman
 * Nick Fury
-* Wonder Woman
